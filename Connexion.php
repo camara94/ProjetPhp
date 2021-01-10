@@ -1,6 +1,6 @@
 <?php
 	
-	function Connexion($host = 'localhost', $user = 'root', $password = '', $database = 'projetPhp')
+	function Connexion($host = 'localhost', $user = 'root', $password = '', $database = 'miniprojetphp')
 	{
 		
 		try {
